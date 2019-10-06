@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: 'Rubik', sans-serif; 
+}
+
+.wrapper {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+img {
+    width: 150px;
+}
+
+footer {
+    text-align: center;   
+}
